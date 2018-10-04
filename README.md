@@ -58,6 +58,7 @@ What can be improved here? How would you re-write it?
  - All calls to the API / server-side must be mocked.
  - We dont provide design of the screens here, so the level of design / pixel perfect layout will not be evaluated here.
  - The layout of all screens must be adaptive - to support different sizes of device screens, including mobile screens.
+ - Big advatage would be to think through and design corresponding toolset to support future scalability of the project  
 
 ### Payment terminal for the cell providers 
 
